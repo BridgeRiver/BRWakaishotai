@@ -28,7 +28,7 @@ Fontworks将Klee One字体开源后，网络上逐渐出现了霞鹜文楷GB、�
 - 该字体不可在 [SIL Open Font License 1.1](https://openfontlicense.org) 以外的授权许可下发行。
 
 
-# 鸣谢
+## 鸣谢
 - [FONTWORKS 株式会社](http://fontworks.co.jp) ：提供原版开源字体 Klee； [开发者 GitHub 主页](https://github.com/fontworks-fonts/)
 - [lxgw](https://github.com/lxgw) ：提供基于 Klee 补全简体汉字的 [霞鹜文楷](https://github.com/lxgw/LxgwWenKai) 、 [霞鹜文楷GB](https://github.com/lxgw/LxgwWenKaiGB)
 - [Steve-Yuu](https://github.com/Steve-Yuu)：提供传统字形的 [Y式笔书体](https://github.com/Steve-Yuu/YshiPen-Shuti)
