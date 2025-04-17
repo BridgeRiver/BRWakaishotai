@@ -29,7 +29,7 @@ This font is developed and released by FONTWORKS based on the SIL Open Font Lice
 According to SIL Open Font License 1.1, it is prohibited to sell font files (OTF/TTF files) separately.
 This font cannot be distributed under any license other than SIL Open Font License 1.1.
 
-# Acknowledgements
+## Acknowledgements
 - [FONTWORKS Co., Ltd](http://fontworks.co.jp) : Provide original open-source font Klee;  [Developer GitHub homepage](https://github.com/fontworks-fonts/)
 - [lxgw](https://github.com/lxgw) : Provide [LXGW Wenkai]((https://github.com/lxgw/LxgwWenKai) font based on Klee to complete simplified Chinese characters
 - [Steve-Yuu](https://github.com/Steve-Yuu): Provide traditional font [YshiPen-Shuti](https://github.com/Steve-Yuu/YshiPen-Shuti) 
