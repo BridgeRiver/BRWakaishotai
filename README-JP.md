@@ -28,7 +28,7 @@ FontworksがKlee Oneフォントをオープンソースした後、霞鶩文楷
 - [SIL Open Font License 1.1](https://openfontlicense.org) 「許可と条件」の第1条の規定により、**はフォントファイル（OTF/TFファイル）の単独販売行為を禁止する。**
 - このフォントは [SIL Open Font License 1.1](https://openfontlicense.org) 以外のライセンスでは発行できません。
 
-# 感謝
+## 感謝
 - [FONTWORKS 株式会社](http://fontworks.co.jp) ：オリジナルオープンソースフォントKleeを提供； [開発者のGitHubホームページ](https://github.com/fontworks-fonts/)
 - [lxgw](https://github.com/lxgw) ：Klee補完簡体字に基づく [霞鶩文楷](https://github.com/lxgw/LxgwWenKai) と [霞鶩文楷GB](https://github.com/lxgw/LxgwWenKaiGB) を提供した
 - [Steve-Yuu](https://github.com/Steve-Yuu)：伝統的な字形の [Y式笔书体](https://github.com/Steve-Yuu/YshiPen-Shuti) を提供した
