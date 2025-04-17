@@ -10,6 +10,9 @@ After Fontworks opened sourced the Klee One font, fonts such as Lxgw Wenkai GB(�
 
 Considering that this font may be used as a display font for mobile phones and may need to be mixed with Simplified Chinese, I have completed the character count of the General Standard Chinese Character Table(通用规范汉字表) for this font using LXGW Wenkai and LXGW Wenkai GB based on the character count of Klee One. I have also adjusted these character shapes, such as following real or hypothetical Japanese standards, to ensure a unified style during mixing. In the later stage, I will merge characters such as LXGW Wenkai GB to continue expanding the number of characters, but there is currently no plan to adjust all the characters.
 
+## Font Preview
+
+![sample](https://github.com/BridgeRiver/BRWakaishotai/blob/main/preview/%E5%AD%97%E4%BD%93%E9%A2%84%E8%A7%88_01.png)
 
 ## License Information
 
