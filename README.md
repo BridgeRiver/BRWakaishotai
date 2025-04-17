@@ -31,5 +31,5 @@ This font cannot be distributed under any license other than SIL Open Font Licen
 
 # Acknowledgements
 - [FONTWORKS Co., Ltd](http://fontworks.co.jp) : Provide original open-source font Klee;  [Developer GitHub homepage](https://github.com/fontworks-fonts/)
-- [lxgw](https://github.com/lxgw) : Provide LXGW Wenkai font based on Klee to complete simplified Chinese characters
+- [lxgw](https://github.com/lxgw) : Provide [LXGW Wenkai]((https://github.com/lxgw/LxgwWenKai) font based on Klee to complete simplified Chinese characters
 - [Steve-Yuu](https://github.com/Steve-Yuu): Provide traditional font [YshiPen-Shuti](https://github.com/Steve-Yuu/YshiPen-Shuti) 
