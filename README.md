@@ -12,7 +12,7 @@ Considering that this font may be used as a display font for mobile phones and m
 
 ## Font Preview
 
-![sample](https://github.com/BridgeRiver/BRWakaishotai/blob/main/preview/%E5%AD%97%E4%BD%93%E9%A2%84%E8%A7%88_01.png)
+![sample](https://github.com/BridgeRiver/BRWakaishotai/blob/main/preview/%E5%AD%97%E4%BD%93%E9%A2%84%E8%A7%88%E6%96%B0.png)
 
 ## License Information
 
